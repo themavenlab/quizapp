@@ -1,0 +1,5 @@
+{
+  "id": 1,
+  "text": "Filters are called before a request hits the DispatcherServlet. They allow for interception-style, chained processing of web requests for security, timeouts, and other purposes.",
+  "isCorrect": true
+}
