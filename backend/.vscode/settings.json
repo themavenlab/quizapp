@@ -248,5 +248,8 @@
   "window.autoDetectColorScheme": true,
   "window.zoomLevel": 1,
   "workbench.editor.enablePreview": true,
-  "java.format.settings.url": "https://githubusercontent.com"
+  "java.format.settings.url": "https://githubusercontent.com",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
 }
