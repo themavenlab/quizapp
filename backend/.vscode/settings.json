@@ -251,5 +251,6 @@
   "java.format.settings.url": "https://githubusercontent.com",
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "java.configuration.updateBuildConfiguration": "interactive"
 }
